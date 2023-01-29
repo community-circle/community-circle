@@ -4,7 +4,7 @@ To see the React frontend with Google Map, you will need the API key from Amanda
 REACT_APP_GOOGLE_MAP_API = YOUR_API_KEY
 
 If everything is loaded correctly, you should see a webpage like this:
-
+![alt text](https://github.com/community-circle/community-circle/blob/main/community-users-ui/public/web_sample.png)
 
 # Getting Started with Create React App
 
