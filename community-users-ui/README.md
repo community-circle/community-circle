@@ -1,6 +1,6 @@
 # Developer's Note
 
-To see the React frontend with Google Map, you will need the API key from Amanda or Maria. Once you have the key, create an .env file and save the key as: 
+To see the React frontend with Google Map, you will need the API key from Amanda or Mariah. Once you have the key, create an .env file and save the key as: 
 REACT_APP_GOOGLE_MAP_API = YOUR_API_KEY
 
 If everything is loaded correctly, you should see a webpage like this:
